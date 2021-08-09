@@ -1,0 +1,11 @@
+app:
+    ui:
+        page_title: Seitentitel
+        seo: SEO
+        twitter_description: Twitter-Beschreibung
+        twitter_title: Twitter-Titel
+        twitter_site: Twitter-Seite
+        og_url: OG Url
+        og_description: OG Beschreibung
+        og_title: OG Titel
+        extra_tags: Zusätzliche Meta-Tags
